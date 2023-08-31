@@ -17,4 +17,4 @@ bot = commands.Bot(command_prefix="!")
 async def status (ctx):
     await ctx.author.send("**Status of the bot:** null__Watching__ Roblox Altsnull**What the `/restock` command does**nullThe bot will request a txt file in the format with the accounts in the format 'username:password'. The bot will detect the usernames and password and seperate them or whatever. This is what will be sent to a user when they use the command below. Each account can only be sent once, and will get deleted from the list of accounts sent to the user.null**What the `/alt-gen` command does:**nullThe bot will send an embed DM to the user who ran the command, and give them the username & password. There will be a cooldown of 10 minutes between each time the command is ran. The embed should be similar to the one below. (I don't mind if it's just the username and password, without any PFPs, etc - but it'd be better if the extra info was included)null")
 
-bot.run("MTE0NjkzODgyODIwNTA4MDY0Nw.GVQY50.zRzvA2c8DsLqwW_PKf3eyQQMeZwzMkjGUwsCOs")
+bot.run("")
